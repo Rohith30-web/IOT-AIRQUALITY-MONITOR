@@ -144,3 +144,11 @@ The provided Arduino code establishes a fundamental air quality monitoring syste
 **CIRCUIT DESIGN:**
 
 <img width="1777" height="754" alt="Image" src="https://github.com/user-attachments/assets/a50e5aed-8a11-4a8f-9442-f23eb5149718" />
+
+**OUTPUT:**
+
+**WHEN AIR IS FRESH:**
+
+**WHEN AIR IS POOR:**
+
+**WHEN AIR IS VERY POOR:**
